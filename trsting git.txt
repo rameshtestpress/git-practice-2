@@ -1,7 +1,2 @@
 hi made a change
  hii this is master changes
-
-
-
-to check the last commit content
-
